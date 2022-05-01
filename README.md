@@ -1,4 +1,4 @@
-# restaurantvue
+# restaurant
 
 ## Project setup
 ```

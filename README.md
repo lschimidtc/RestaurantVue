@@ -1,4 +1,8 @@
-# restaurant
+# Restaurant
+
+### Restaurant app MockUp, build with Vue2
+
+##[CLICK HERE TO VISIT THE PROJECT](https://626dfabaa92f1b74a08718c1--quiet-stroopwafel-ed9693.netlify.app/#/)
 
 ## Project setup
 ```
